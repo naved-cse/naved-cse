@@ -46,6 +46,12 @@
 
 ---
 
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navedcse/)
+
+---
+
 <p align="center">
   <i>"Consistency beats talent when talent doesn't show up."</i>
 </p>
