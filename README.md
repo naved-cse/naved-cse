@@ -32,8 +32,8 @@
 | Project | Description | Tech Used | Live |
 |---|---|---|---|
 | Developer Roadmap Tracker | Track your dev learning journey | React, Tailwind | [GitHub](https://github.com/naved-cse/devpath) |
-| Amazon Clone | Frontend clone of Amazon | HTML, CSS, JS | [GitHub]([https://github.com/naved-cse/amazon-clone](https://github.com/naved-cse/amazon-clone.git)) |
-| Tic Tac Toe | Classic game with clean UI | HTML, CSS, JS | [GitHub]([https://github.com/naved-cse/tic-tac-toe](https://github.com/naved-cse/tic-tac-toe)) |
+| Amazon Clone | Frontend clone of Amazon | HTML, CSS, JS | [GitHub]((https://github.com/naved-cse/amazon-clone.git)) |
+| Tic Tac Toe | Classic game with clean UI | HTML, CSS, JS | [GitHub]((https://github.com/naved-cse/tic-tac-toe)) |
 
 ---
 
