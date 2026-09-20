@@ -40,7 +40,7 @@
 ### 📊 DSA Journey
 
 - 🔗 [My DSA Repository](https://github.com/naved-cse/DSA-Journey)
-- ✅ Problems Solved: **90+**
+- ✅ Problems Solved: **110+**
 - 📌 Platform: LeetCode
 - 🗂️ Topics: Arrays • Strings • Hashing • Two Pointers
 
